@@ -49,3 +49,9 @@ run the tagging program
 ```python
 road_sign_tagging('road-signs-dubai-uae-FPMFN8.jpg')
 ```
+
+you will see the following output:
+
+```python
+{'tag': 'road_sign', 'score': 0.9429549}
+```
