@@ -66,3 +66,15 @@ wget https://live.staticflickr.com/4169/34649653051_9e31056a0a_b.jpg
 it looks like 
 
 ![](https://live.staticflickr.com/4169/34649653051_9e31056a0a_b.jpg)
+
+run the tagging program
+
+```python
+road_sign_tagging('34649653051_9e31056a0a_b.jpg')
+```
+
+and it has the following output since it has no road sign
+
+```python
+{'tag': 'non_road_sign', 'score': 0.7540367}
+```
