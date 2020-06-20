@@ -32,3 +32,14 @@ https://drive.google.com/file/d/1lGkgRc1VU1tVJPiMUSVyCV2Elm1Gy8_-/view?usp=shari
 
 ### Using
 
+down load an image of road sign 
+
+```base
+wget https://c8.alamy.com/comp/FPMFN8/road-signs-dubai-uae-FPMFN8.jpg
+```
+
+import the model in python3
+
+```python
+from road_sign_tagging import road_sign_tagging
+```
