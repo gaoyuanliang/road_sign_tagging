@@ -8,10 +8,6 @@ Tagging the images which has the road signs like
 ### Installation
 
 
-downlaod the pre-trained road sign detection model from the url 
-
-
-
 to install the cheque detector model, you need Python 3.7.7 
 
 ```bash
@@ -37,6 +33,11 @@ down load an image of road sign
 ```base
 wget https://c8.alamy.com/comp/FPMFN8/road-signs-dubai-uae-FPMFN8.jpg
 ```
+
+this image looks like
+
+![](https://c8.alamy.com/comp/FPMFN8/road-signs-dubai-uae-FPMFN8.jpg)
+
 
 import the model in python3
 
