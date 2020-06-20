@@ -8,7 +8,7 @@ Tagging the images which have the road signs like
 ### Installation
 
 
-to install the cheque detector model, you need Python 3.7.7 
+to install the road sign tagging model, you need Python 3.7.7 
 
 ```bash
 git clone https://github.com/gaoyuanliang/road_sign_tagging.git
