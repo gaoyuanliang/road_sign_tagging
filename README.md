@@ -1,6 +1,6 @@
 # road sign tagging
 
-Tagging the images which has the road signs like
+Tagging the images which have the road signs like
 
 ![example of road signs](https://www.guide2dubai.com/Portals/0/Images/Living/Transportation/dubai-road-signs.jpg)
 
