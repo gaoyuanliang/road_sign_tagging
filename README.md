@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 wget https://github.com/fchollet/deep-learning-models/releases/download/v0.4/xception_weights_tf_dim_ordering_tf_kernels_notop.h5
 ```
 
-download the pretrain model of cheque detection from this url [https://drive.google.com/file/d/1lGkgRc1VU1tVJPiMUSVyCV2Elm1Gy8_-/view?usp=sharing](https://drive.google.com/file/d/1lGkgRc1VU1tVJPiMUSVyCV2Elm1Gy8_-/view?usp=sharing)
+download the pretrain model of cheque detection from this url [https://drive.google.com/file/d/1lGkgRc1VU1tVJPiMUSVyCV2Elm1Gy8_-/view?usp=sharing](https://drive.google.com/file/d/1lGkgRc1VU1tVJPiMUSVyCV2Elm1Gy8_-/view?usp=sharing) to the folder road_sign_tagging
 
 
 ### Using
