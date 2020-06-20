@@ -14,7 +14,7 @@ downlaod the pre-trained road sign detection model from the url
 
 to install the cheque detector model, you need Python 3.7.7 
 
-```
+```bash
 git clone https://github.com/gaoyuanliang/cheque_detection.git
 
 cd cheque_detection
@@ -29,3 +29,6 @@ download the pretrain model of cheque detection from the following url
 ```
 https://drive.google.com/file/d/1lGkgRc1VU1tVJPiMUSVyCV2Elm1Gy8_-/view?usp=sharing
 ```
+
+### Using
+
