@@ -13,10 +13,10 @@ def road_sign_tagging(input_file):
 	y_score = model.predict(x)
 	prediction = numpy.argmax(y_score)
 	score = numpy.max(y_score)
-  output["score"] = score
+	output["score"] = score
 	if prediction > 0:
 		output["tag"] = 'road_sign'
-  else:
+	else:
 		output["tag"] = 'non_road_sign'  
 	return output
 ########road_sign_tagging.py########
