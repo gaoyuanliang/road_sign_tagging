@@ -2,6 +2,10 @@
 
 Tagging the images which has the road signs like
 
+?ver=2015-12-07-082711-763
+
+
+![example of road signs](https://www.guide2dubai.com/Portals/0/Images/Living/Transportation/dubai-road-signs.jpg)
 
 
 downlaod the pre-trained road sign detection model from the url 
