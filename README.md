@@ -43,3 +43,9 @@ import the model in python3
 ```python
 from road_sign_tagging import road_sign_tagging
 ```
+
+run the tagging program
+
+```python
+road_sign_tagging('road-signs-dubai-uae-FPMFN8.jpg')
+```
