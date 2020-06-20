@@ -56,3 +56,13 @@ you will see the following output:
 ```python
 {'tag': 'road_sign', 'score': 0.9429549}
 ```
+
+now lets download another example of image which does not have any road sign
+
+```base
+wget https://live.staticflickr.com/4169/34649653051_9e31056a0a_b.jpg
+```
+
+it looks like 
+
+![](https://live.staticflickr.com/4169/34649653051_9e31056a0a_b.jpg)
