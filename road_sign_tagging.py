@@ -1,5 +1,5 @@
 ########road_sign_tagging.py########
-from pavi import *
+from jessica_cv import *
 
 model = load_build_image_categorization_model(
 	model_file = 'road_sign.h5py')
