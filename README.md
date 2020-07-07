@@ -12,7 +12,7 @@ Tagging the images which have the road signs
   </thead>
   <tr>
     <td>
-      <img src="https://www.guide2dubai.com/Portals/0/Images/Living/Transportation/dubai-road-signs.jpg" width="400">
+      <img src="https://www.guide2dubai.com/Portals/0/Images/Living/Transportation/dubai-road-signs.jpg" width="600">
     </td>
     <td>
       <pre>
@@ -25,7 +25,7 @@ Tagging the images which have the road signs
   </tr>
   <tr>
     <td>
-      <img src="https://live.staticflickr.com/4169/34649653051_9e31056a0a_b.jpg" width="400">
+      <img src="https://live.staticflickr.com/4169/34649653051_9e31056a0a_b.jpg" width="600">
     </td>
     <td>
       <pre>
@@ -67,8 +67,7 @@ wget https://c8.alamy.com/comp/FPMFN8/road-signs-dubai-uae-FPMFN8.jpg
 
 this image looks like
 
-![](https://c8.alamy.com/comp/FPMFN8/road-signs-dubai-uae-FPMFN8.jpg)
-
+<img src="https://www.guide2dubai.com/Portals/0/Images/Living/Transportation/dubai-road-signs.jpg" width="600">
 
 import the model in python3
 
@@ -96,7 +95,7 @@ wget https://live.staticflickr.com/4169/34649653051_9e31056a0a_b.jpg
 
 it looks like 
 
-![](https://live.staticflickr.com/4169/34649653051_9e31056a0a_b.jpg)
+<img src="https://live.staticflickr.com/4169/34649653051_9e31056a0a_b.jpg" width="600">
 
 run the tagging program
 
