@@ -12,7 +12,7 @@ Tagging the images which have the road signs
   </thead>
   <tr>
     <td>
-      <img src="https://www.guide2dubai.com/Portals/0/Images/Living/Transportation/dubai-road-signs.jpg" height="200">
+      <img src="https://www.guide2dubai.com/Portals/0/Images/Living/Transportation/dubai-road-signs.jpg" width="400">
     </td>
     <td>
       <pre>
@@ -25,7 +25,7 @@ Tagging the images which have the road signs
   </tr>
   <tr>
     <td>
-      <img src="https://live.staticflickr.com/4169/34649653051_9e31056a0a_b.jpg" height="200">
+      <img src="https://live.staticflickr.com/4169/34649653051_9e31056a0a_b.jpg" width="400">
     </td>
     <td>
       <pre>
