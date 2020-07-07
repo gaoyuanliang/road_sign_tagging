@@ -1,8 +1,42 @@
 # road sign tagging
 
-Tagging the images which have the road signs like
+Tagging the images which have the road signs 
 
-![example of road signs](https://www.guide2dubai.com/Portals/0/Images/Living/Transportation/dubai-road-signs.jpg)
+
+<table>
+  <thead>
+    <tr>
+      <th>Input</th>
+      <th>Output</th>
+    </tr>
+  </thead>
+  <tr>
+    <td>
+      <img src="https://www.guide2dubai.com/Portals/0/Images/Living/Transportation/dubai-road-signs.jpg" height="200">
+    </td>
+    <td>
+      <pre>
+{
+  'tag': 'road_sign', 
+  'score': 0.9429549
+}
+</pre>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://live.staticflickr.com/4169/34649653051_9e31056a0a_b.jpg" height="200">
+    </td>
+    <td>
+      <pre>
+{
+  'tag': 'non_road_sign', 
+  'score': 0.7540367
+}
+</pre>
+    </td>
+  </tr>
+</table>
 
 
 ### Installation
