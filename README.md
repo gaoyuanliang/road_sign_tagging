@@ -109,6 +109,10 @@ and it has the following output since it has no road sign
 {'tag': 'non_road_sign', 'score': 0.7540367}
 ```
 
+### TODO
+
+performing OCR to extract the road and location names from the road signs and map them to the goe-location, so that the road signs can searched on a map
+
 ### I am looking for job
 
 
