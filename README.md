@@ -45,7 +45,7 @@ Tagging the images which have the road signs
 to install the road sign tagging model, you need Python 3.7.7 
 
 ```bash
-git clone https://github.com/gaoyuanliang/road_sign_tagging.git
+git clone https://github.com/liang6261515/road_sign_tagging.git
 
 cd road_sign_tagging
 
